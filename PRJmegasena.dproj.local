@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/14 16:27:59.000.025,=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/07/14 16:43:05.000.592,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.fmx=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\MegaSena.fmx</Transaction>
+    <Transaction>2023/07/14 16:43:05.000.592,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\MegaSena.pas</Transaction>
+    <Transaction>2023/07/14 16:44:02.000.428,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\MegaSena.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\UNTmegasena.pas</Transaction>
+    <Transaction>2023/07/14 16:44:02.000.428,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\MegaSena.fmx=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\UNTmegasena.fmx</Transaction>
+    <Transaction>2023/07/14 16:44:47.000.082,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Project1.dproj=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Loterias\PRJmegasena.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
